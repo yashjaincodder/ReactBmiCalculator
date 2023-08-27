@@ -1,0 +1,26 @@
+.maindiv{
+    background-color: white;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 8px 8px 10px rgb(37, 37, 59);
+    padding: 0px 20px 20px 20px;
+}
+h1{
+    color: white;
+    background-color: blue;
+    padding: 10px;
+}
+.result{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(235, 171, 51);
+}
+input{
+    width: 400px;
+}
